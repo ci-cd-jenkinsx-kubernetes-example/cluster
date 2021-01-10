@@ -15,3 +15,5 @@ spec:
           - backend:
               serviceName: nexus
               servicePort: 80
+            path: "/"
+      host: nexus-jx.a09c21669d85040a695cb9389b018565-211d617c41622717.elb.us-east-1.amazonaws.com
